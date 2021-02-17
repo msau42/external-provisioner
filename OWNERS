@@ -5,10 +5,18 @@ approvers:
 - saad-ali
 - xing-yang
 reviewers:
-- davidz627
+- chrishenzie
+- jiawei0227
+- jingxu97
 - jsafrane
 - lpabon
+- mattcary
 - msau42
 - saad-ali
-- sbezverk
+- saikat-royc
 - xing-yang
+- verult
+
+#emeritus_reviewers:
+#- davidz627
+#- sbezverk
